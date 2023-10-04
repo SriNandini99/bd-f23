@@ -1,0 +1,13 @@
+user_id,date,fileType,file
+1000,'10042023','Image', 'Test'
+1001,'10012023','Image','Test'
+1002,'10022023','video','Test'
+1003,'10032022','video','Test'
+1004,'01042023','video','Test'
+1005,'11042021','Image','Test'
+1006,'19042021','Image','Test'
+1007,'10042017','file','Test'
+1008,'10062023','file','Test'
+1009,'10072023','file','Test'
+1010,'10112023','file','Test'
+1011,'10032023','Image','Test'
